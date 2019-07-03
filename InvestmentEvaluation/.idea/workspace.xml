@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="InvestmentEvaluation:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bb71d84-d185-4b8b-9ea7-ab24141ac214" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="InvestmentEvaluation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/index.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/introduction.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/index</find>
+      <find>/admin</find>
+      <find>redirect</find>
+      <find>number</find>
+      <find>打分</find>
+      <find>custom-control</find>
+      <find>Query</find>
+      <find>其</find>
+      <find>for</find>
+      <find>database</find>
+      <find>查找</find>
+      <find>province</find>
+      <find>Proposal</find>
+      <find>proposal</find>
+      <find>project</find>
+      <find>my-3</find>
+      <find>position</find>
+      <find>duty</find>
+      <find>评估</find>
+      <find>invest</find>
+      <find>invest(?!ment)</find>
+      <find>int key</find>
+      <find>产业化信息表</find>
+      <find>Report</find>
+      <find>evidence</find>
+      <find>forward</find>
+      <find>delete</find>
+      <find>admin</find>
+      <find>project-list</find>
+      <find>col-4</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>profile</replace>
+      <replace>nullIfEmpty($1)</replace>
+      <replace>(nullIfEmpty($1))</replace>
+      <replace>employeeNumber</replace>
+      <replace>introduction</replace>
+      <replace>project</replace>
+      <replace>查询</replace>
+      <replace>Industrial</replace>
+      <replace>投资评估要件</replace>
+      <replace>duty</replace>
+      <replace>String key</replace>
+      <replace>Evidence</replace>
+      <replace>report</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\web</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\src\main\java\com\zzy\investmentevaluation\repository</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\src\main\java\com\zzy\investmentevaluation\service</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\src\main\java\com\zzy\investmentevaluation</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\src\main\java\com\zzy\investmentevaluation\controller</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\src\main\java\com\zzy\investmentevaluation\entity\key</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\src\main\java\com\zzy\investmentevaluation\entity</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\src\main\java\com\zzy\investeval\repository</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\investor</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\guest</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\expert</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\src\main\java\com\zzy\investeval\controller</dir>
+      <dir>D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/investor/invest-list.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/investor/invest.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/expert/project-detail.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/guest/project-detail.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/expert/evaluate.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/admin/report-list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/EvaluationIndex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/Field.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/repository/FieldRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/FieldService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/FieldServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/ExpertController.java" />
+        <option value="$PROJECT_DIR$/web/resources/js/field.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/expert-detail.js" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/expert/profile.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/AdminExpertController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/AdminInvestorController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/AdminProjectController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/investor/profile.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/admin/expert-detail.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/admin/investor-detail.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/admin/project-detail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/InvestService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/InvestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/ProjectService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/ProjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/InvestorController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/investor/project-list.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/register.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/login.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/change-password.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/copyright.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/pages/introduction.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/web/resources/js/approve.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/change-password.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/city-select.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/evaluate.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/field-select.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/field-validation.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/file.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/form-validation.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/invest.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/login.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/project-validation.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/query-project.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/register.js" />
+        <option value="$PROJECT_DIR$/web/resources/js/report.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zzy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zzy" type="462c0819:PsiDirectoryNode" />
+              <item name="investeval" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/pages/admin/expert-detail.jsp" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/web/WEB-INF/pages/admin/expert-detail.jsp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zzy.investeval.service" />
+      <recent name="com.zzy.investmentevaluation.service" />
+      <recent name="com.zzy.investmentevaluation.repository" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zzy.investmentevaluation.entity.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\investor" />
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\expert" />
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\guest" />
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\admin" />
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\resources\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zzy.investmentevaluation.repository" />
+      <recent name="com.zzy.investmentevaluation.entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages" />
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\admin" />
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF\pages\expert" />
+      <recent name="D:\IntelliJ IDEA\projects\InvestmentEvaluation\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="InvestmentEvaluation" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/invest-eval/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="InvestmentEvaluation:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/invest-eval" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_InvestmentEvaluation_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51142" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="InvestmentEvaluation:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bb71d84-d185-4b8b-9ea7-ab24141ac214" name="Default Changelist" comment="" />
+      <created>1555925856539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555925856539</updated>
+      <workItem from="1555925860613" duration="3004000" />
+      <workItem from="1555983299940" duration="24076000" />
+      <workItem from="1556069905233" duration="42847000" />
+      <workItem from="1556275639143" duration="1061000" />
+      <workItem from="1556416212032" duration="47263000" />
+      <workItem from="1556591854361" duration="7494000" />
+      <workItem from="1556805387772" duration="3925000" />
+      <workItem from="1556978964388" duration="10013000" />
+      <workItem from="1557019073141" duration="16494000" />
+      <workItem from="1557109042984" duration="15399000" />
+      <workItem from="1557161356836" duration="2871000" />
+      <workItem from="1557164715555" duration="1048000" />
+      <workItem from="1557194813167" duration="12203000" />
+      <workItem from="1557284317135" duration="11190000" />
+      <workItem from="1557326303162" duration="658000" />
+      <workItem from="1557365632442" duration="17949000" />
+      <workItem from="1557400977653" duration="2562000" />
+      <workItem from="1557454483566" duration="11310000" />
+      <workItem from="1557640526317" duration="14070000" />
+      <workItem from="1557674885417" duration="12178000" />
+      <workItem from="1557722605950" duration="1244000" />
+      <workItem from="1557760299780" duration="4901000" />
+      <workItem from="1557798407022" duration="8441000" />
+      <workItem from="1557847745186" duration="212000" />
+      <workItem from="1557885743526" duration="2280000" />
+      <workItem from="1557973468308" duration="618000" />
+      <workItem from="1558158503540" duration="28491000" />
+      <workItem from="1558315649606" duration="16878000" />
+      <workItem from="1558369234340" duration="30704000" />
+      <workItem from="1558489762414" duration="21430000" />
+      <workItem from="1559106294412" duration="3168000" />
+      <workItem from="1559131437461" duration="610000" />
+      <workItem from="1559132109522" duration="2494000" />
+      <workItem from="1561048576347" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="379484000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49087894" visible="true" weight="0.25426438" />
+      <window_info id="Structure" order="1" sideWeight="0.50912106" side_tool="true" weight="0.26705757" />
+      <window_info id="Web" order="2" sideWeight="0.5058043" side_tool="true" weight="0.31503198" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5038932" side_tool="true" weight="0.27985075" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39933258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" sideWeight="0.49946696" weight="0.32925472" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.39933258" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32925472" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32925472" />
+      <window_info anchor="bottom" id="Duplicate detector" order="15" weight="0.32925472" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32925472" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="17" weight="0.32925472" />
+      <window_info anchor="bottom" id="Statistic" order="18" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="InvestmentEvaluation" type="b2602c69:ProjectViewProjectNode" />
+        <item name="InvestmentEvaluation" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>expertList.stream().filter(expert -&gt; !isIntersectionEmpty(project.getFields(), expert.getFields())).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.stream.Collectors</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expertList.stream().filter(expert -&gt; !isIntersectionEmpty(project.getFields(), expert.getFields()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expertList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expertRepository.findAll().get(0).getFields()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expertRepository.findAll().stream().anyMatch(expert -&gt; !isIntersectionEmpty(fields, expert.getFields()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>expertRepository.findAll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Timestamp(System.currentTimeMillis())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>evaluateService.findAllIndexLevel2()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>projectService.findById(id)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/AdminInvestorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/AdminProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/AdminRegisterApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/AdminReportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/ControllerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/ExpertController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/GuestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/InvestorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/EvaluationIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/Expert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/IndexScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/Invest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/Investor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/InvestScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/RegisterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/entity/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/EvaluateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/EvaluateServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/ExpertServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/FieldServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/InvestorServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/InvestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/ProjectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/service/ReportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/repository/InvestScoreRepository.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/author.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzy/investeval/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/jquery-3.4.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/approve.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/change-password.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/city-select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/evaluate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/field-select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/field-validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/form-validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/invest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/popper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/project-validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/query-project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/resources/js/report.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/InvestmentEvaluation_Web_exploded/resources/js/approve.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/introduction.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>InvestmentEvaluation:Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (InvestmentEvaluation)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jQuery</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.8.0_181</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>InvestmentEvaluation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 26 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework.boot:spring-boot:2.1.4.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
